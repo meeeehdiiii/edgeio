@@ -23,4 +23,3 @@ Use this convenient docker-compose.yml file to install all Root Orchestrator com
 EdgeIO consists of a centralized Root Orchestrator, distributed clusters, and heterogeneous worker nodes.
 
 ![Alt text](./res/edgeIO_arch.svg)
-<img src="./res/edgeIO_arch.svg">
