@@ -12,5 +12,5 @@ Pull these edgeIO components and run them on your desired hardware.
 
 EdgeIO consists of a centralized Root Orchestrator, distributed clusters, and heterogeneous worker nodes.
 
-![Alt text](./edgeIO_arch.svg)
-<img src="./edgeIO_arch.svg">
+![Alt text](./res/edgeIO_arch.svg)
+<img src="./res/edgeIO_arch.svg">
